@@ -1,5 +1,6 @@
 # 内容：币圈相关域名
 # 域名关键字匹配
+DOMAIN-KEYWORD,okx
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,coinbase
 DOMAIN-KEYWORD,kraken
@@ -76,3 +77,7 @@ DOMAIN-SUFFIX,cronoscan.com
 DOMAIN-SUFFIX,moonscan.io
 DOMAIN-SUFFIX,celoscan.io
 DOMAIN-SUFFIX,gnosisscan.io
+DOMAIN-SUFFIX,okx-wallet.com  # 官方钱包域名
+DOMAIN-SUFFIX,oklink.com  # OKX 区块链浏览器
+DOMAIN-SUFFIX,okx.cdn  # CDN 或静态资源
+DOMAIN-SUFFIX,okx-dapp.com  # DApp 相关服务
